@@ -41,8 +41,44 @@
 - [📊 Data Fields Extracted](#-data-fields-extracted)
 - [💻 Configuration](#-configuration)
 - [🔁 Output Example](#-output-example)
+- [📝 License](#-license)
 - [Related Repositories](#related-repositories)
 - [Support This Project](#-support-this-project)
+
+---
+
+
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/xiaozhucchongya-byte/amazon-product-scraper?style=social)](https://github.com/xiaozhucchongya-byte/amazon-product-scraper)
+[![GitHub forks](https://img.shields.io/github/forks/xiaozhucchongya-byte/amazon-product-scraper?style=social)](https://github.com/xiaozhucchongya-byte/amazon-product-scraper/fork)
+[![GitHub issues](https://img.shields.io/github/issues/xiaozhucchongya-byte/amazon-product-scraper)](https://github.com/xiaozhucchongya-byte/amazon-product-scraper/issues)
+[![GitHub license](https://img.shields.io/github/license/xiaozhucchongya-byte/amazon-product-scraper)](https://github.com/xiaozhucchongya-byte/amazon-product-scraper/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
+
+</div>
+
+
+> Amazon product scraper - extract product details, images, and specs
+
+
+<!-- SEO keywords: amazon product scraper, Amazon Product Scraper, amazon product scraper python, amazon product scraper github, best amazon product scraper -->
+
+
+<div align="center">
+
+[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+
+**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
+
+✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
+
+⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+
+</div>
+
+---
+
 
 ---
 
@@ -100,6 +136,18 @@ scrape_amazon_product("B08N5WRWNW")
 # Returns: {{'asin': '...', 'title': '...', 'price': 29.99, 'images': [...], ...}}
 ```
 
+
+## 📝 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+<sup>Built with ❤️ for the web scraping community</sup>
+
+</div>
 
 
 <!-- INSTALL_SECTION_START -->
@@ -292,15 +340,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 <!-- CONTRIB_SECTION_END -->
 
-
-## 📝 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-<sup>Built with ❤️ for the web scraping community</sup>
-
-</div>
